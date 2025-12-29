@@ -8,7 +8,6 @@ static float Area;
 
 public Area2(float heigth, float base) {
 	this.heigth = heigth;
-	
 	this.base = base;
 
 	
